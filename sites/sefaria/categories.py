@@ -136,6 +136,7 @@ CATEGORY_ORDER = [
         "Breslov",
         "Izhbitz",
         "R' Tzadok HaKohen",
+        "Rebbe of Piaseczno",
     'Musar',
     'Responsa',  # See list under Halacha
     'Second Temple',
